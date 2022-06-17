@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icones/desligar.png</file>
+        <file>icones/registrar.png</file>
+        <file>icones/sobre.png</file>
+        <file>icones/verificar.png</file>
+        <file>icones/logo.png</file>
+    </qresource>
+</RCC>
