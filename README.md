@@ -8,3 +8,4 @@ SOFTWARE CRIADO COM C++ E COM QT CREATOR PARA MARCAÇÃO DA PRESSÃO ARTERIAL AF
 
 ![image](https://user-images.githubusercontent.com/70297459/216681217-61106cec-b163-4916-aeb0-e7d813146722.png)
 
+![image](https://user-images.githubusercontent.com/70297459/216681303-a9e4ee6d-0724-49c8-97ce-f7b608b89f9f.png)
